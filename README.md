@@ -1,15 +1,7 @@
-﻿<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="70" valign="bottom" align="right">
-        <img width="110" src="https://github.com/user-attachments/assets/df06e8d3-2202-48e1-8d2d-205cf9485229" alt="Stara AI" />
-      </td>
-      <td align="center">
-        <img width="100%" alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:466CFD,35:7DD3FC,65:EE7093,100:C5B4E5&amp;height=260&amp;section=header&amp;text=Stara+AI&amp;fontSize=78&amp;fontColor=ffffff&amp;fontAlignY=36&amp;fontFamily=Caveat,Dancing%20Script,Segoe%20Script,Brush%20Script%20MT,cursive,KaiTi,STKaiti,Microsoft%20YaHei,sans-serif&amp;desc=%E5%8A%9F%E4%B8%8D%E5%94%90%E6%8D%90%20%C2%B7%20%E7%8E%89%E6%B1%9D%E4%BA%8E%E6%88%90&amp;descSize=22&amp;descColor=ffffff&amp;descAlignY=60&amp;animation=fadeIn&amp;stroke=7DD3FC&amp;strokeWidth=2" />
-      </td>
-    </tr>
-  </table>
-</div>
+﻿<p align="center">
+  <img align="left" width="110" src="https://github.com/user-attachments/assets/df06e8d3-2202-48e1-8d2d-205cf9485229" alt="Stara AI" /><img width="100%" alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:466CFD,35:7DD3FC,65:EE7093,100:C5B4E5&amp;height=260&amp;section=header&amp;text=Stara+AI&amp;fontSize=78&amp;fontColor=ffffff&amp;fontAlignY=36&amp;fontFamily=Caveat,Dancing%20Script,Segoe%20Script,Brush%20Script%20MT,cursive,KaiTi,STKaiti,Microsoft%20YaHei,sans-serif&amp;desc=%E5%8A%9F%E4%B8%8D%E5%94%90%E6%8D%90%20%C2%B7%20%E7%8E%89%E6%B1%9D%E4%BA%8E%E6%88%90&amp;descSize=22&amp;descColor=ffffff&amp;descAlignY=60&amp;animation=fadeIn&amp;stroke=7DD3FC&amp;strokeWidth=2" />
+</p>
+<br clear="both" />
 
 <h3>🏆 GitHub Trophies</h3>
 <p>
@@ -17,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;size=22&amp;pause=1000&amp;color=F75C7E&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=56&amp;lines=%E4%BD%A0%E5%A5%BD,%E6%88%91%E6%98%AF+Stara+AI;%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE+%E4%B8%BB%E7%AB%99+staraxing.cn;%E6%99%BA%E6%8E%A2%E5%85%A8%E6%A0%88%E4%B8%8E%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD;%E7%83%AD%E8%A1%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%AE%9E%E8%B7%B5&amp;repeat=true" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;size=22&amp;pause=1000&amp;color=F75C7E&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=56&amp;lines=%E4%BD%A0%E5%A5%BD,%E6%88%91%E6%98%AF+Stara+AI;%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE+%E4%B8%BB%E7%AB%99+staraxing.cn;%E6%99%BA%E6%8E%A2%E5%85%A8%E6%A0%88%E4%B8%8E%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD;%E7%83%AD%E8%A1%B7%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%AE%9E%E8%B7%B5&amp;repeat=true" />
 </p>
 
 

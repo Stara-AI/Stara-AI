@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;size=22&amp;pause=1000&amp;color=F75C7E&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=56&amp;lines=%E4%BD%A0%E5%A5%BD,%E6%88%91%E6%98%AF+Stara+AI;%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE+%E4%B8%BB%E7%AB%99+staraxing.cn;%E6%99%BA%E6%8E%A2%E5%85%A8%E6%A0%88%E4%B8%8E%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD;%E7%83%AD%E8%A1%B7%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%AE%9E%E8%B7%B5&amp;repeat=true" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;size=22&amp;pause=1000&amp;color=F75C7E&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=56&amp;lines=%E4%BD%A0%E5%A5%BD,%E6%88%91%E6%98%AF+Stara+AI;%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE%E4%B8%BB%E7%AB%99+staraxing.cn;%E6%99%BA%E6%8E%A2%E5%85%A8%E6%A0%88%E4%B8%8E%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD;%E7%83%AD%E8%A1%B7%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%AE%9E%E8%B7%B5&amp;repeat=true" />
 </p>
 
 

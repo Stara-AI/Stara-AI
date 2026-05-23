@@ -1,8 +1,15 @@
 ﻿<div align="center">
-  <img width="100%" alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:466CFD,35:7DD3FC,65:EE7093,100:C5B4E5&amp;height=260&amp;section=header&amp;text=Stara+AI&amp;fontSize=78&amp;fontColor=ffffff&amp;fontAlignY=36&amp;fontFamily=Caveat,Dancing%20Script,Segoe%20Script,Brush%20Script%20MT,cursive,KaiTi,STKaiti,Microsoft%20YaHei,sans-serif&amp;desc=%E5%8A%9F%E4%B8%8D%E5%94%90%E6%8D%90%20%C2%B7%20%E7%8E%89%E6%B1%9D%E4%BA%8E%E6%88%90&amp;descSize=22&amp;descColor=ffffff&amp;descAlignY=60&amp;animation=fadeIn&amp;stroke=7DD3FC&amp;strokeWidth=2" />
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="70" valign="bottom" align="right">
+        <img width="110" src="https://github.com/user-attachments/assets/df06e8d3-2202-48e1-8d2d-205cf9485229" alt="Stara AI" />
+      </td>
+      <td align="center">
+        <img width="100%" alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:466CFD,35:7DD3FC,65:EE7093,100:C5B4E5&amp;height=260&amp;section=header&amp;text=Stara+AI&amp;fontSize=78&amp;fontColor=ffffff&amp;fontAlignY=36&amp;fontFamily=Caveat,Dancing%20Script,Segoe%20Script,Brush%20Script%20MT,cursive,KaiTi,STKaiti,Microsoft%20YaHei,sans-serif&amp;desc=%E5%8A%9F%E4%B8%8D%E5%94%90%E6%8D%90%20%C2%B7%20%E7%8E%89%E6%B1%9D%E4%BA%8E%E6%88%90&amp;descSize=22&amp;descColor=ffffff&amp;descAlignY=60&amp;animation=fadeIn&amp;stroke=7DD3FC&amp;strokeWidth=2" />
+      </td>
+    </tr>
+  </table>
 </div>
-
-<img align="left" width="110" src="https://github.com/user-attachments/assets/df06e8d3-2202-48e1-8d2d-205cf9485229" alt="Stara AI" style="margin-top: -210px; margin-left: 24px; margin-bottom: -70px;" />
 
 <h3>🏆 GitHub Trophies</h3>
 <p>

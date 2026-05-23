@@ -1,7 +1,6 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:466CFD,35:7DD3FC,65:EE7093,100:C5B4E5&height=260&section=header&text=Stara AI&fontSize=78&fontColor=ffffff&fontAlignY=36&fontFamily=Caveat,Dancing%20Script,Segoe%20Script,Brush%20Script%20MT,cursive,KaiTi,STKaiti,Microsoft%20YaHei,sans-serif&desc=功不唐捐%20·%20玉汝于成&descSize=22&descColor=ffffff&descAlignY=60&animation=fadeIn&stroke=7DD3FC&strokeWidth=2" alt="Banner" />
-</motion>
-
+  <img width="100%" alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:466CFD,35:7DD3FC,65:EE7093,100:C5B4E5&amp;height=260&amp;section=header&amp;text=Stara+AI&amp;fontSize=78&amp;fontColor=ffffff&amp;fontAlignY=36&amp;fontFamily=Caveat,Dancing%20Script,Segoe%20Script,Brush%20Script%20MT,cursive,KaiTi,STKaiti,Microsoft%20YaHei,sans-serif&amp;desc=功不唐捐%20·%20玉汝于成&amp;descSize=22&amp;descColor=ffffff&amp;descAlignY=60&amp;animation=fadeIn&amp;stroke=7DD3FC&amp;strokeWidth=2" />
+</div>
 
 <img align="left" width="110" src="https://github.com/user-attachments/assets/df06e8d3-2202-48e1-8d2d-205cf9485229" alt="Stara AI" style="margin-top: -210px; margin-left: 24px; margin-bottom: -70px;" />
 
@@ -14,7 +13,7 @@
 
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=720&height=56&lines=你好,我是+Stara AI;欢迎访问主站+staraxing.cn;智探全栈与具身智能;热衷人工智能应用实践&cursor=&repeat=true" alt="Typing SVG" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;size=22&amp;pause=1000&amp;color=F75C7E&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=56&amp;lines=你好,我是+Stara+AI;欢迎访问主站+staraxing.cn;智探全栈与具身智能;热衷人工智能应用实践&amp;cursor=&amp;repeat=true" />
 </h3>
 
 
@@ -204,6 +203,5 @@
 <p align="center">
 
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
-
 
 

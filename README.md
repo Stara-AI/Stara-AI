@@ -3,8 +3,6 @@
 </motion>
 
 
-<img align="left" width="110" src="https://github.com/user-attachments/assets/df06e8d3-2202-48e1-8d2d-205cf9485229" alt="Stara AI" style="margin-top: -210px; margin-left: 24px; margin-bottom: -70px;" />
-
 <div class="markdown-heading" dir="auto">
   <h2 tabindex="-1" class="heading-element" dir="auto">🏆 GitHub Trophies</h2>
 </div>
@@ -22,8 +20,7 @@
 <div class="markdown-heading" dir="auto">
   <h2 tabindex="-1" class="heading-element" dir="auto">💫Hi 👋, I'm Stara ⚡</h2>
 </div>
-
-**A passionate AI/ML Expert || Full-Stack Developer || from Beijing, China**
+**A passionate AI/ML Expert || Full-Stack Developer || from Beijing, China**<img align="left" width="110" src="https://github.com/user-attachments/assets/df06e8d3-2202-48e1-8d2d-205cf9485229" alt="Stara AI" style="margin-top: -210px; margin-left: 24px; margin-bottom: -70px;" />
 
 
 
@@ -204,6 +201,5 @@
 <p align="center">
 
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
-
 
 

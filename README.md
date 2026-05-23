@@ -1,20 +1,16 @@
 <div align="center">
-  <img width="100%" alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:466CFD,35:7DD3FC,65:EE7093,100:C5B4E5&amp;height=260&amp;section=header&amp;text=Stara+AI&amp;fontSize=78&amp;fontColor=ffffff&amp;fontAlignY=36&amp;fontFamily=Caveat,Dancing%20Script,Segoe%20Script,Brush%20Script%20MT,cursive,KaiTi,STKaiti,Microsoft%20YaHei,sans-serif&amp;desc=功不唐捐%20·%20玉汝于成&amp;descSize=22&amp;descColor=ffffff&amp;descAlignY=60&amp;animation=fadeIn&amp;stroke=7DD3FC&amp;strokeWidth=2" />
-</div>
-
+  <img width="100%" alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:466CFD,35:7DD3FC,65:EE7093,100:C5B4E5&amp;height=260&amp;section=header&amp;text=Stara+AI&amp;fontSize=78&amp;fontColor=ffffff&amp;fontAlignY=36&amp;fontFamily=Caveat,Dancing%20Script,Segoe%20Script,Brush%20Script%20MT,cursive,KaiTi,STKaiti,Microsoft%20YaHei,sans-serif&amp;desc=%E5%8A%9F%E4%B8%8D%E5%94%90%E6%8D%90%20%C2%B7%20%E7%8E%89%E6%B1%9D%E4%BA%8E%E6%88%90&amp;descSize=22&amp;descColor=ffffff&amp;descAlignY=60&amp;animation=fadeIn&amp;stroke=7DD3FC&amp;strokeWidth=2" />
+</motion>
 <img align="left" width="110" src="https://github.com/user-attachments/assets/df06e8d3-2202-48e1-8d2d-205cf9485229" alt="Stara AI" style="margin-top: -210px; margin-left: 24px; margin-bottom: -70px;" />
 
-<div class="markdown-heading" dir="auto">
-  <h2 tabindex="-1" class="heading-element" dir="auto">🏆 GitHub Trophies</h2>
-</div>
+<h3>🏆 GitHub Trophies</h3>
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Stara-AI&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
-## ![](https://github-profile-trophy.vercel.app/?username=Stara-AI&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
 
-
-
-<h3 align="center">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;size=22&amp;pause=1000&amp;color=F75C7E&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=56&amp;lines=你好,我是+Stara+AI;欢迎访问主站+staraxing.cn;智探全栈与具身智能;热衷人工智能应用实践&amp;cursor=&amp;repeat=true" />
-</h3>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=720&height=56&lines=%E4%BD%A0%E5%A5%BD,%E6%88%91%E6%98%AF+Stara+AI;%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE+%E4%B8%BB%E7%AB%99+staraxing.cn;%E6%99%BA%E6%8E%A2%E5%85%A8%E6%A0%88%E4%B8%8E%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD;%E7%83%AD%E8%A1%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%AE%9E%E8%B7%B5&repeat=true)
 
 
 
@@ -203,5 +199,4 @@
 <p align="center">
 
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
-
 

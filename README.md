@@ -18,7 +18,7 @@
 
 ## 💫 Hi 👋, I'm Stara ⚡
 
-**A passionate AI/ML Expert || Full-Stack Developer || from Beijing, China**
+**A passionate AI/ML Expert || Full-Stack Developer || from Gansu, China**
 
 <img align="right" width="110" src="https://github.com/user-attachments/assets/df06e8d3-2202-48e1-8d2d-205cf9485229" alt="Stara AI" />
 

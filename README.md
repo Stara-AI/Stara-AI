@@ -30,7 +30,7 @@
         <li>💬 <strong>Tagline</strong>: Full-stack explorer, intelligence embodied</li>
         <li>🔭 <strong>Focus</strong>: AI、 Full-stack、Deep Learning、LLM</li>
         <li>🌱 <strong>Learning</strong>: LLM/Agent、CV、Frontend & Backend、 Docker</li>
-        <li>🌍 <strong>Location</strong>: Beijing, China 🇨🇳</li>
+        <li>🌍 <strong>Location</strong>: Gansu, China 🇨🇳</li>
         <li>💻 <strong>Project</strong> <a href="https://github.com/Stara-AI">@Stara-AI</a></li>
       </ul>
     </td>

@@ -6,7 +6,7 @@
 
 ## 🏆 GitHub Trophies
 <p>
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=Stara-AI&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Stara-AI&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 
@@ -147,7 +147,7 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <img width="100%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Stara-AI&bg_color=FFFFFF&color=466CFD&line=FF7EB8&point=FFFFFF&area=true&hide_border=true" />
+      <img width="100%" alt="Activity Graph" src="https://activity-graph-hftzl.ondigitalocean.app/graph?username=Stara-AI&bg_color=FFFFFF&color=466CFD&line=FF7EB8&point=FFFFFF&area=true&hide_border=true" />
     </td>
   </tr>
   <tr>
